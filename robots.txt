@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://pyraxistech.com/sitemap.xml
